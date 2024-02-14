@@ -1,0 +1,4 @@
+name: Racey
+version: '${version}'
+main: smile.smile.racey.Racey
+api-version: '1.20'
